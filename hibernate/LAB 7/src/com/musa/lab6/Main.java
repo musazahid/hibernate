@@ -1,4 +1,4 @@
-package com.qarri.lab_07;
+package com.musa.lab6;
 
 import java.util.Scanner;
 
