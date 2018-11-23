@@ -8,14 +8,14 @@ public class Lab6 {
 		
 		
 		Person p1= new Person();
-		p1.setFirstname("Abrar");
-		p1.setLastname("Hassan");
-		p1.setPhone("13123412123");
+		p1.setFirstname("Musa");
+		p1.setLastname("Zahid");
+		p1.setPhone("131236637746");
 		
 		Person p2 = new Person();
 		p2.setFirstname("Mustafa");
 		p2.setLastname("Kamal");
-		p2.setPhone("13214941943");
+		p2.setPhone("88362283943");
 		
 		Person p3 = new Person();
 		p3.setFirstname("Muhammad");
